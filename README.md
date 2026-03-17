@@ -30,7 +30,6 @@ The layout is built using **CSS Grid and Flexbox** to create a clean and respons
 
 ## 📷 Preview
 
-![Project Preview]()
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/554c489e-af9e-45e8-8ea0-a3256429dee8" />
 
 
@@ -43,12 +42,6 @@ The layout is built using **CSS Grid and Flexbox** to create a clean and respons
 
 ---
 
-## 📂 GitHub Repository
-
-🔗 Repository Link:
-[https://github.com/your-username/project-name](https://github.com/praveenkr26/Social-Media-Clone/)
-
----
 
 ## 📌 What I Learned
 
